@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "useState"
+    },
+    {
+      "id": "2",
+      "name": "useFetch"
+    }
+  ]
+}
